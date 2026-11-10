@@ -12,7 +12,7 @@
 
 ```shell
 pwd
-ls -Force
+ls -r -Force
 mv .\tai_lieu_ban_giao.txt .\docs\
 mkdir backup
 cp .\data\chi_phi_model_thang_11.xlsx .\backup\
