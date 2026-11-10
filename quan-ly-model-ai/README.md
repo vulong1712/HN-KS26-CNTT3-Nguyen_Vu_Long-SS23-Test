@@ -4,7 +4,7 @@
 
 ## Giới thiệu
 
-### Hệ thống **quản lý model** *trí tuệ nhân tạo* chạy tại `web/index.html`
+ Hệ thống **quản lý model** *trí tuệ nhân tạo* chạy tại `web/index.html`
 
 ## Cấu trúc thư mục
 
